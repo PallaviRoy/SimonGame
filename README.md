@@ -1,2 +1,2 @@
-# SimonGame
-Simon Memory Game using webservices and Vue Js
+# DotNetProject
+IS8012
